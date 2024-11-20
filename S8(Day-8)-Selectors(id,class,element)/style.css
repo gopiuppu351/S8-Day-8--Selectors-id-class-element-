@@ -15,8 +15,6 @@
 }
 
 
-
-
 img{
     width: 200px;
     height: 200px;
@@ -27,38 +25,30 @@ img{
     border-radius: 20px;
 }
 
-.RCBPlayers{
-    background-color: forestgreen;
-    border-radius: 20px;
-}
-
-.SUNRPlayers{
+.SRHPlayers{
     background-color: blueviolet;
     border-radius: 20px;
 }
+
 
 .MIPlayers{
     background-color: darkcyan;
     border-radius: 20px;
 }
 
-#rohitSharma{
+.RCBPlayers{
+    background-color: forestgreen;
+    border-radius: 20px;
+}
+
+
+
+#mahendrasinghDhoni{
     width: 200px;
     border-radius: 50%;
     box-shadow: 10px 10px 10px black;
 }
 
-#dhoni{
-    width: 200px;
-    border-radius: 50%;
-    box-shadow: 10px 10px 10px black;
-}
-
-#viratKohli{
-    width: 200px;
-    border-radius: 50%;
-    box-shadow: 10px 10px 10px black;
-}
 
 #patCummins{
     width: 200px;
@@ -67,7 +57,20 @@ img{
 }
 
 
-#cskDesc{
+#rohitSharma{
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+#viratKohli{
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+}
+
+.Desc{
     display: inline-block;
     width: 1030px;
     height: 300px;
@@ -75,26 +78,35 @@ img{
     text-align: justify;
 }
 
-#sunDesc{
-    display: inline-block;
-    width: 1030px;
-    height: 300px;
-    overflow: auto;
-    text-align: justify;
-}
 
-#miDesc{
+/* #cskDesc{
     display: inline-block;
     width: 1030px;
     height: 300px;
     overflow: auto;
     text-align: justify;
-}
+} */
 
-#rcbDesc{
+/* #sunDesc{
     display: inline-block;
     width: 1030px;
     height: 300px;
     overflow: auto;
     text-align: justify;
-}
+} */
+
+/* #miDesc{
+    display: inline-block;
+    width: 1030px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+} */
+
+/* #rcbDesc{
+    display: inline-block;
+    width: 1030px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+} */
